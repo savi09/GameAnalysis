@@ -19,7 +19,7 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
 ## 4: Age Demographics
 
     This includes percentage and count of players by age summary [<10, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39,
-    40-44, 45+]. Twenty to twenty-four year old was the larget age group with 258 people (44.79%).
+    40-44, 45+]. Twenty to twenty-four year olds was the larget age group with 258 people (44.79%).
     
 ## 7: Top Spenders
 
@@ -30,9 +30,9 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
 ## 8: Most Popular Items
     
     A table of top 5 most purchased items, that includes the item ID, item name, the number of items purchased, 
-    item price, and total purchase value.
+    item price, and total purchase value. The most popular item was "Final Critic" with 13 purchases.
     
 ## 9: Most Profitable Items
 
     A table of top 5 most profitable items, that includes the item ID, item name, the number of items purchased, 
-    item price, and total purchase value.
+    item price, and total purchase value. The most profitable item was, also, "Final Critic" with a total of $59.99.
