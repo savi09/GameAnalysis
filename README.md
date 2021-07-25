@@ -24,7 +24,8 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
 ## 7: Top Spenders
 
     A table of top 5 spenders, that includes the players' screen name, the number of items purchased, average 
-    purchase price, and total purchase value.
+    purchase price, and total purchase value. Screen name of Lisosia93 spent the most with 5 purchases that 
+    totaled $18.96.
     
 ## 8: Most Popular Items
     
