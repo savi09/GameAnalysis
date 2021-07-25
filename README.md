@@ -3,3 +3,5 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
 
   ## 1: Player Count:
     The total number of players.
+
+  ## 2:
