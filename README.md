@@ -9,7 +9,7 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
 
     This includes count of unique items sold, average purchase price, total number of purchases, and total revenue. 
     This analysis was completed for 2: total values, 5: broken up by gender and 6: broken up by age. Total revenue 
-    was only $2,379.77. 
+    was only $2,379.77. Twenty to twenty-four year olds spent the most with 365 purchases that totaled $1,114.06.
    
 ## 3: Gender Demographics
 
