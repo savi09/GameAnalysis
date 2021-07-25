@@ -21,12 +21,15 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
     
 ## 7: Top Spenders
 
-    A table of top 5 spenders, that includes the players' screen name, the number of items purchased, average purchase price, and total purchase value.
+    A table of top 5 spenders, that includes the players' screen name, the number of items purchased, average purchase 
+    price, and total purchase value.
     
 ## 8: Most Popular Items
     
-    A table of top 5 most purchased items, that includes the item ID, item name, the number of items purchased, item price, and total purchase value.
+    A table of top 5 most purchased items, that includes the item ID, item name, the number of items purchased, item price, 
+    and total purchase value.
     
 ## 9: Most Profitable Items
 
-    A table of top 5 most profitable items, that includes the item ID, item name, the number of items purchased, item price, and total purchase value.
+    A table of top 5 most profitable items, that includes the item ID, item name, the number of items purchased, item price, 
+    and total purchase value.
