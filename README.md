@@ -7,6 +7,14 @@ Create a report that analyzes a video game, Heroes of Pymoli’s purchasing data
 
 ## 2: Purchasing Analysis
 
-    This includes count of unique items sold, average purchase price, total number of purchases, and total revenue.
-    ![alt text](https://user-images.githubusercontent.com/84607693/126888435-ee4beef5-8c7a-4036-ad37-3bef6d7bdfa5.png)
+    This includes count of unique items sold, average purchase price, total number of purchases, and total revenue. 
+    This analysis was completed for total values, broken up by gender and broken up by age.
+   
+## 3: Gender Demographics
 
+    This includes percentage and count of male players, female players, and other/non-disclosed gender players.
+
+## 4: Age Demographics
+
+    This includes percentage and count of players by age summary [<10, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39,
+    40-44, 45+].
